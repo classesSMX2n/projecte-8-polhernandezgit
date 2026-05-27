@@ -38,9 +38,9 @@ Quan un client es connecta al WiFi, veu una pàgina de benvinguda amb el logo de
 
 **El logo que sortiria a la pàgina web seria aquest:**
 
-![alt text](image.png)
+<img width="237" height="207" alt="image" src="https://github.com/user-attachments/assets/c6283fa7-6895-43ce-b53a-374503c117d3" />
 
-![alt text](image-1.png)
+<img width="536" height="354" alt="image" src="https://github.com/user-attachments/assets/3230c82e-fa17-4d22-be2a-21790a13bcee" />
 
 ## **3\. Pressupost de Hardware**
 
